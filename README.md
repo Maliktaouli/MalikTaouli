@@ -14,10 +14,9 @@ Passionné d’informatique et de nouvelles technologies depuis toujours, ayant 
 ![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
 <hr>
 
-                ## Technologies que j'étudie actuellement 💻
+                             ## Technologies que j'étudie actuellement 💻
   
     Je me devellope en ce moment sur des outils No code tel que Webflow,Bubble,Bravo et Airtable
-  
   - HTML
   - CSS
   - Python
