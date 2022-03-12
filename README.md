@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MalikTaouli
+- 👋 Hi, I’m @MalikT
 - 👀 I’m interested in Informatique,art,3d,Gaming,code,Tech,food
 - 🌱 I’m currently learning HTML Python
 - 💞️ I’m looking to collaborate I am looking to collaborate for mobile applications and websites to develop my experience 
