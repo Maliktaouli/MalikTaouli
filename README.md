@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Malik
 - 
-- 👀 I’m interested in Informatique,art,3D,Gaming,Code,Tech,Food
+- 👀 I’m interested in Informatique,Art,3D,Gaming,Code,Tech,Food
 - 
 - 🌱 I’m currently learning HTML Python VQGAN
 - 
