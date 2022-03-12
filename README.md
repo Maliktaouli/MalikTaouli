@@ -16,9 +16,9 @@ Passionné d’informatique et de nouvelles technologies depuis toujours, ayant 
 
                  ## Technologies que j'étudie actuellement 💻
   
-  Je me devellope en ce moment sur des outils No code tel que Webflow,Bubble,Bravo et Airtable
+   Je me devellope en ce moment sur des outils No code tel que Webflow,Bubble,Bravo et Airtable
   
- - HTML
+  - HTML
   - CSS
   - Python
   - 3D
