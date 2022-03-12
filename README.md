@@ -1,6 +1,9 @@
-- 👋 Hi, I’m @MalikT
+- 👋 Hi, I’m @Malik
+- 
 - 👀 I’m interested in Informatique,art,3d,Gaming,code,Tech,food
+- 
 - 🌱 I’m currently learning HTML Python
+- 
 - 💞️ I’m looking to collaborate I am looking to collaborate for mobile applications and websites to develop my experience 
 
 ## 👋Hi [:link:](https://www.linkedin.com/in/malik-taouli-0194b3233/)
