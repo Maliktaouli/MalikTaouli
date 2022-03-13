@@ -18,7 +18,7 @@ quête perpétuelle d'améliorer ma façon de coder et penser pour toujours évo
 ![Snake animation](https://github.com/Maliktaouli/MalikTaouli/blob/59ac871f9ae65db39063eeb50eef28d7e859fde4/snake.svg)
 <h4 align="center">
  
-![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
+![c633c20ede82f0e0ced7d570dbe3a1f3](https://github.com/Maliktaouli/MalikTaouli/blob/e657c09c3d75500ead9cc272540e89512a528784/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
 <hr>
 
                              ## Technologies que j'étudie actuellement 💻
