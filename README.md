@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Malik linkedin [:link:](https://www.linkedin.com/in/malik-taouli-0194b3233/)
+- 👋 Hi, I’m @Malik Linkedin [:link:](https://www.linkedin.com/in/malik-taouli-0194b3233/)
 - 
 - 👀 I’m interested in Informatique,Art,3D,Gaming,Code,Tech,Food,Music
 - 
