@@ -2,7 +2,7 @@
 - 
 - 👀 I’m interested in Informatique,Art,3D,Gaming,Code,Tech,Food,Music
 - 
-- 🌱 I’m currently learning HTML Python VQGAN
+- 🌱 I’m currently learning HTML CSS Python VQGAN
 - 
 - 💞️ I’m looking to collaborate for mobile applications and websites to develop my experience 
 
