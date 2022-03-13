@@ -6,7 +6,7 @@
 - 
 - 💞️ I’m looking to collaborate for mobile applications and websites to develop my experience 
 
-👋Passionné d’informatique et de nouvelles technologies depuis toujours, ayant fait des études en Bac Professionnel SEN (Système électronique et numérique : option
+Passionné d’informatique et de nouvelles technologies depuis toujours, ayant fait des études en Bac Professionnel SEN (Système électronique et numérique : option
 
 télécom et réseaux) avec quelques bases de HTML (Hypertexte Markup Langage). Je me développe autour des outils Webflow,Airtable,Bravo et Bubble mais pas seulement
 
