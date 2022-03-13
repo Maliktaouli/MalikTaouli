@@ -22,6 +22,7 @@ Passionné d’informatique et de nouvelles technologies depuis toujours, ayant 
   - Python
   - 3D
   - IA Painting
+  - VQGAN
  
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurspk&layout=compact&theme=tokyonight)
 <!---
