@@ -6,11 +6,8 @@
 - 
 - 💞️ I’m looking to collaborate for mobile applications and websites to develop my experience 
 
-Passionné d’informatique et de nouvelles technologies depuis toujours, ayant fait des études en Bac Professionnel SEN (Système électronique et numérique : option
+Passionné d’informatique et de nouvelles technologies depuis toujours, ayant fait des études en Bac Professionnel SEN (Système électronique et numérique : option télécom et réseaux) avec quelques bases de HTML (Hypertexte Markup Langage). Je me développe autour des outils Webflow,Airtable,Bravo et Bubble mais pas seulement puisque je suis un passionné de création digital je me développe autour des outils Adobe Photoshop,illustrator,FL Studio et IA painting , ainsi qu un projet de site d'art digital.
 
-télécom et réseaux) avec quelques bases de HTML (Hypertexte Markup Langage). Je me développe autour des outils Webflow,Airtable,Bravo et Bubble mais pas seulement
-
-puisque je suis un passionné de création digital je me développe autour des outils Adobe Photoshop,illustrator,FL Studio et IA painting , ainsi qu un projet de site d'art digital.
 Insatiable et curieux j'aime le travail d’équipe qui permet d'évoluer et s’adapter au quotidien et de mètre en œuvre des projet magnifique,    en quête perpétuelle d'améliorer ma façon de coder et penser pour toujours évoluer.
 ![Snake animation](https://github.com/Maliktaouli/MalikTaouli/blob/59ac871f9ae65db39063eeb50eef28d7e859fde4/snake.svg)
 <h4 align="center">
